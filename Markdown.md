@@ -40,4 +40,8 @@ _текст может быть выделен курсивом и при это
 
 ## Цитаты
 
+Цитаты оформляются как в емейлах, с помощью символа `>`.
+
+> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet
+
 ## Заключение
